@@ -1,5 +1,5 @@
 # Retail-Data-Managemnet-System
-A retail order , inventory and crm system developed using SQL 
+A retail order, inventory and crm system developed using SQL 
 
 # Tech Stack
 MS SQL Server
