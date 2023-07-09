@@ -2,10 +2,10 @@
 A retail order, inventory and crm system developed using SQL 
 
 # Tech Stack
-MS SQL Server
-ER STUDIO
-Tableau
-Microsoft Excel
+- MS SQL Server
+- ER STUDIO
+- Tableau
+- Microsoft Excel
 
 # ERD
 ![Final ER diagram](https://github.com/Saswato/Retail-Data-Managemnet-System/assets/67147010/abad1944-b1ed-453e-b141-3588ee6c6a0f)
